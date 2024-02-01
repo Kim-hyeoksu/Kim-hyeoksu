@@ -1,4 +1,4 @@
-### Welcome to HyuckSoo GitHub 👋
+### Welcome to HyuckSoo's GitHub 👋
 
 <!--
 **Kim-hyeoksu/Kim-hyeoksu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hyucksoo's%20GitHub&fontSize=70&fontColor=eeeeee)  
 [![hyucksoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-hyeoksu)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
 ## Contact
 
 <div style="display:flex; flex-direction:row;">
@@ -30,6 +33,7 @@ Here are some ideas to get you started:
     </a>
 </div>
 
+<br>
 
 ## Dev Stacks
 ![naver](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=black)
@@ -42,3 +46,5 @@ Here are some ideas to get you started:
 ![styledcomponents](https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
