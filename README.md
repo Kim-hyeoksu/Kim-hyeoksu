@@ -18,15 +18,17 @@ Here are some ideas to get you started:
 [![hyucksoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-hyeoksu)](https://github.com/anuraghazra/github-readme-stats)
 ## Contact
 
-
-  <a href="https://open.kakao.com/o/hyuksu0308">
-      <img src="https://img.shields.io/badge/
-      KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
-  </a>
-  <a href="https://www.instagram.com/hyeoxu">
-      <img src="https://img.shields.io/badge/
-      Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-  </a>
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:hyuksu0308@naver.com">
+        <img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logoColor=black&logo=naver"> 
+    </a>
+    <a href="https://open.kakao.com/o/hyuksu0308">
+        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
+    </a>
+    <a href="https://www.instagram.com/hyeoxu">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+</div>
 
 
 ## Dev Stacks
