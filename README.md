@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     <a href="mailto:hyuksu0308@naver.com">
         <img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logoColor=black&logo=naver"> 
     </a>
-    <a href="https://open.kakao.com/o/hyuksu0308">
+    <a href="https://open.kakao.com/o/sV0nmccg">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
     </a>
     <a href="https://www.instagram.com/hyeoxu">
